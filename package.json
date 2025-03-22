@@ -2,60 +2,60 @@
     "name": "nodal-analysis-simulator",
     "version": "1.0.0",
     "description": "Simulador interactivo de análisis nodal para ingeniería petrolera",
-    "author": "Tu Nombre",
+    "author": "Ing. Benito Cabrera R., MBA",
     "license": "MIT",
     "homepage": "https://tu-usuario.github.io/nodal-analysis-simulator",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/benitocabrerar/nodal-analysis-simulator.git"
+        "type": "git",
+        "url": "git+https://github.com/benitocabrerar/nodal-analysis-simulator.git"
     },
     "keywords": [
-      "petroleum",
-      "engineering",
-      "nodal analysis",
-      "ipr",
-      "vlp",
-      "gas lift",
-      "oil production",
-      "simulation"
+        "petroleum",
+        "engineering",
+        "nodal analysis",
+        "ipr",
+        "vlp",
+        "gas lift",
+        "oil production",
+        "simulation"
     ],
     "dependencies": {
-      "@testing-library/jest-dom": "^5.16.5",
-      "@testing-library/react": "^13.4.0",
-      "@testing-library/user-event": "^14.4.3",
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0",
-      "react-scripts": "5.0.1",
-      "recharts": "^2.5.0",
-      "web-vitals": "^3.3.1"
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^14.4.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "^3.0.1",
+        "recharts": "^2.5.0",
+        "web-vitals": "^3.3.1"
     },
     "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject",
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
-      "extends": [
-        "react-app",
-        "react-app/jest"
-      ]
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
     },
     "browserslist": {
-      "production": [
-        ">0.2%",
-        "not dead",
-        "not op_mini all"
-      ],
-      "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
-      ]
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
     },
     "devDependencies": {
-      "gh-pages": "^5.0.0"
+        "gh-pages": "^5.0.0"
     }
-  }
+}

@@ -44,15 +44,15 @@ function App() {
             <div className="footer-section">
               <h3>Enlaces</h3>
               <ul>
-                <li><a href="https://github.com/tu-usuario/nodal-analysis-simulator" target="_blank" rel="noopener noreferrer">Código fuente en GitHub</a></li>
-                <li><a href="https://github.com/tu-usuario/nodal-analysis-simulator/issues" target="_blank" rel="noopener noreferrer">Reportar problemas</a></li>
+                <li><a href="https://github.com/benitocabrerar/nodal-analysis-simulator" target="_blank" rel="noopener noreferrer">Código fuente en GitHub</a></li>
+                <li><a href="https://github.com/benitocabrerar/nodal-analysis-simulator/issues" target="_blank" rel="noopener noreferrer">Reportar problemas</a></li>
               </ul>
             </div>
           </div>
           
           <div className="footer-bottom">
             <p>&copy; {new Date().getFullYear()} Simulador de Análisis Nodal. Todos los derechos reservados.</p>
-            <p>Desarrollado con <span role="img" aria-label="heart">❤️</span> por <a href="https://github.com/tu-usuario" target="_blank" rel="noopener noreferrer">Tu Nombre</a></p>
+            <p>Desarrollado con <span role="img" aria-label="heart">❤️</span> por <a href="https://github.com/benitocabrerar" target="_blank" rel="noopener noreferrer">Ing. Benito Cabrera R., MBA</a></p>
           </div>
         </div>
       </footer>
