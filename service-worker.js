@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nodal-analysis-simulator/precache-manifest.5c1a9872a0d66b2360c6f3f966053cac.js"
+  "/nodal-analysis-simulator/precache-manifest.36e590d3f9b2a21401d5f73f540d6e71.js"
 );
 
 self.addEventListener('message', (event) => {
