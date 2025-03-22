@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nodal-analysis-simulator/static/css/main.3199ec7a.chunk.css",
+    "main.js": "/nodal-analysis-simulator/static/js/main.e48bc339.chunk.js",
+    "main.js.map": "/nodal-analysis-simulator/static/js/main.e48bc339.chunk.js.map",
+    "runtime-main.js": "/nodal-analysis-simulator/static/js/runtime-main.38715dcc.js",
+    "runtime-main.js.map": "/nodal-analysis-simulator/static/js/runtime-main.38715dcc.js.map",
+    "static/js/2.199d8907.chunk.js": "/nodal-analysis-simulator/static/js/2.199d8907.chunk.js",
+    "static/js/2.199d8907.chunk.js.map": "/nodal-analysis-simulator/static/js/2.199d8907.chunk.js.map",
+    "static/js/3.2ee0c019.chunk.js": "/nodal-analysis-simulator/static/js/3.2ee0c019.chunk.js",
+    "static/js/3.2ee0c019.chunk.js.map": "/nodal-analysis-simulator/static/js/3.2ee0c019.chunk.js.map",
+    "index.html": "/nodal-analysis-simulator/index.html",
+    "precache-manifest.5c1a9872a0d66b2360c6f3f966053cac.js": "/nodal-analysis-simulator/precache-manifest.5c1a9872a0d66b2360c6f3f966053cac.js",
+    "service-worker.js": "/nodal-analysis-simulator/service-worker.js",
+    "static/css/main.3199ec7a.chunk.css.map": "/nodal-analysis-simulator/static/css/main.3199ec7a.chunk.css.map",
+    "static/js/2.199d8907.chunk.js.LICENSE.txt": "/nodal-analysis-simulator/static/js/2.199d8907.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38715dcc.js",
+    "static/js/2.199d8907.chunk.js",
+    "static/css/main.3199ec7a.chunk.css",
+    "static/js/main.e48bc339.chunk.js"
+  ]
+}
